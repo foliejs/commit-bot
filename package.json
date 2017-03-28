@@ -1,0 +1,22 @@
+{
+  "name": "bitbucket-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "emailjs": "^1.0.8",
+    "fs": "0.0.1-security",
+    "md5": "^2.2.1",
+    "morgan": "^1.8.1",
+    "node-fetch": "^1.6.3",
+    "node-logger-center": "git+https://github.com/cyanideio/node-logger.git",
+    "request": "^2.81.0",
+    "restify": "^4.3.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
